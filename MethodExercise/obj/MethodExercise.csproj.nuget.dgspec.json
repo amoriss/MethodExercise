@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amori\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj": {}
+    "C:\\Users\\amori\\repos - Original\\MethodExercise\\MethodExercise\\MethodExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amori\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj": {
+    "C:\\Users\\amori\\repos - Original\\MethodExercise\\MethodExercise\\MethodExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amori\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
+        "projectUniqueName": "C:\\Users\\amori\\repos - Original\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
         "projectName": "MethodExercise",
-        "projectPath": "C:\\Users\\amori\\repos\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
+        "projectPath": "C:\\Users\\amori\\repos - Original\\MethodExercise\\MethodExercise\\MethodExercise.csproj",
         "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amori\\repos\\MethodExercise\\MethodExercise\\obj\\",
+        "outputPath": "C:\\Users\\amori\\repos - Original\\MethodExercise\\MethodExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amori\\AppData\\Roaming\\NuGet\\NuGet.Config",
